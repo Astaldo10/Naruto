@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android= "http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:title="@string/responder"
+        android:id="@+id/reply" />
+
+    <item
+        android:title="@string/refrescar"
+        android:id="@+id/refresh" />
+
+    <item
+        android:title="@string/cerrarSesion"
+        android:id="@+id/closeSession" />
+
+    <item
+        android:title="@string/salir"
+        android:id="@+id/exit" />
+
+</menu>
